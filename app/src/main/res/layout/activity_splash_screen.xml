@@ -21,6 +21,6 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="HALO INI CUMA TULISAN"
-        android:textColor="@color/white"/>
+        android:textColor="@color/black"/>
 
 </RelativeLayout>
